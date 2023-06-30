@@ -622,6 +622,7 @@ footer .copyright {
 }
 
 /* ------------------------responsive for iPad---------------------------- */
+/* can't fire open menu */
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
